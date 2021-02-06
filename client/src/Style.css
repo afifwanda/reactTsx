@@ -25,14 +25,16 @@ label{
   width: 61vw;
   justify-content: center;
   min-height: 60vh;
-  box-shadow: 0 8px 6px -6px black
+  box-shadow: 0 8px 6px -6px black;
+  background-color: white;
 }
 
 .box{
-  width: 12vw;
+  width: 11vw;
   height: 8vh;
   margin: 0.1%;
   border-radius: 5px;
+  border-style: solid;
 }
 
 .button{

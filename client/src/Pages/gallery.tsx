@@ -48,7 +48,7 @@ function Gallery(){
     let selectedItems : Array<any> = [];
     for(let i = 0; i < items.length; i++){
       if(items[i] !== color){
-        selectedItems.push('696969')
+        selectedItems.push('ffffff00')
       } else{
         selectedItems.push(color)
       }
